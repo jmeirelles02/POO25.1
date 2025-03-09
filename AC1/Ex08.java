@@ -7,7 +7,7 @@ public class Ex08 {
         System.out.print("Digite a quantidade de kilowatts consumidos: ");
         double kwConsumidos = teclado.nextDouble();
 
-        System.out.print("Digite o valor do kilowatt (R$): ");
+        System.out.print("Digite o valor do kw/h R$: ");
         double valorKw = teclado.nextDouble();
 
         double valorTotal = kwConsumidos * valorKw;

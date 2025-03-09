@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="423912ed-b7c2-49a8-82a8-061a07e742e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex08.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ex08.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2tJVP2yrcvZmUNhTx3UQLOWPk1D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Ex01.executor": "Run",
+    "Application.Ex05.executor": "Run",
+    "Application.Ex06.executor": "Run",
+    "Application.Ex07.executor": "Run",
+    "Application.Ex08.executor": "Run",
+    "Application.Ex14.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/POO25.1",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\POO25.1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex14">
+    <configuration name="Ex01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ex01.java" />
+      <module name="POO25.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex05" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ex05.java" />
+      <module name="POO25.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex06" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ex06.java" />
+      <module name="POO25.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex07" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ex07.java" />
+      <module name="POO25.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex08" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ex08.java" />
+      <module name="POO25.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex14" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ex14.java" />
+      <module name="POO25.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ex01" />
+      <item itemvalue="Application.Ex05" />
+      <item itemvalue="Application.Ex06" />
+      <item itemvalue="Application.Ex07" />
+      <item itemvalue="Application.Ex08" />
+      <item itemvalue="Application.Ex14" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="423912ed-b7c2-49a8-82a8-061a07e742e8" name="Changes" comment="" />
+      <created>1740070139729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740070139729</updated>
+    </task>
+    <servers />
+  </component>
+</project>

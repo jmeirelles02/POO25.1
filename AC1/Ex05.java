@@ -11,7 +11,7 @@ public class Ex05 {
         int minutos = (t % 3600) / 60;
         int segundos = t % 60;
 
-        System.out.println("Tempo formatado: " + horas + "h " + minutos + "m " + segundos + "s");
+        System.out.println("Tempo após operação: " + horas + "h " + minutos + "m " + segundos + "s");
 
         teclado.close();
     }
